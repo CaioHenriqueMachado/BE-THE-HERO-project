@@ -1,4 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:black;">
+
 <img src="./frontend/src/assets/logo.svg" style=" text-align: center; ">
 
-# BE-THE-HERO-project
-Projeto Be The Hero
+</body>
+</html>
