@@ -2,7 +2,7 @@
 <html>
 <body style="background-color:black;">
     <div style=" text-align: center; ">
-      <img src="./frontend/src/assets/logo.svg" style=" height: 50px; width: 50px; ">
+      <img src="./frontend/src/assets/logo.svg" style=" margin-left: auto; margin-right: auto ">
     </div>
 
 <p>oi</p> 
