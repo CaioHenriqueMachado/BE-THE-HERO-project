@@ -1,7 +1,7 @@
 <img src="./frontend/src/assets/logo.svg" style=" margin-left: auto; margin-right: auto ">
     <h1 align="center">
 <br>
-  <img src="./frontend/src/assets/logo.svg" alt="TinDev" width="120">
+  <img src="./frontend/src/assets/logo.svg" alt="BeTheHero" width="120">
 <br>
 <br>
 Tindev
@@ -15,7 +15,7 @@ Tindev
   </a>
 </p>
 
-<div>
+<div style="border:solid">
   <img src="./frontend/src/assets/demo_web.gif" alt="demo-web" height="425" width="660">
   <img src="./mobile/assets/demo_app.gif" alt="demo-mobile" height="425">
 </div>
