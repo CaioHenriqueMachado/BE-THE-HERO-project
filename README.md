@@ -15,7 +15,7 @@ Tindev
   </a>
 </p>
 
-<div style="border:solid">
+<div style="border: solid;">
   <img src="./frontend/src/assets/demo_web.gif" alt="demo-web" height="425" width="660">
   <img src="./mobile/assets/demo_app.gif" alt="demo-mobile" height="425">
 </div>
