@@ -17,7 +17,7 @@ Tindev
 
 <div>
   <img src="./frontend/src/assets/demo_web.gif" alt="demo-web" height="425">
-  <img src="./mobile/src/assets/demo_app.gif" alt="demo-mobile" height="425">
+  <img src="./mobile/assets/demo_app.gif" alt="demo-mobile" height="425">
 </div>
 
 <hr />
