@@ -15,8 +15,8 @@ Be The Hero
 </p>
 
 <div>
-  <img src="./frontend/src/assets/demo_web.gif" alt="demo-web" height="425" width="660">
-  <img src="./mobile/assets/demo_app.gif" alt="demo-mobile" height="425">
+  <img src="./frontend/src/assets/demo_web.gif" alt="demo-web" height="450" width="70%">
+  <img src="./mobile/assets/demo_app.gif" alt="demo-mobile" height="450" width="30%">
 </div>
 
 <hr />
